@@ -1,4 +1,4 @@
-# Alura-React-1
+# Card Project react
 React: Learning How the Library Works (Alura Course)
 This is a Project from a React course provided by Alura
 
